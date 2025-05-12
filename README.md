@@ -1,4 +1,4 @@
-# 🚀 Manual de Uso de GitHub
+# 🚀 Manual de Uso de GitHub.
 
 Este manual describe paso a paso las funciones esenciales de GitHub: **Issues**, **Pull Requests**, **Projects**, **Gists**, **Pages**, **Codespaces** y **Dev Editor**.
 
