@@ -1,34 +1,65 @@
-# 🚀 Manual de Uso de GitHub.
+# Manual de GitHub 
 
-Este manual describe paso a paso las funciones esenciales de GitHub: **Issues**, **Pull Requests**, **Projects**, **Gists**, **Pages**, **Codespaces** y **Dev Editor**.
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" width="50"/>
+
+GitHub es una plataforma en línea donde puedes guardar tus archivos y trabajar en proyectos, especialmente de código, con otras personas. Se usa junto con Git, una herramienta que guarda el historial de cambios de tus archivos.
+
+Con GitHub puedes:
+
+- Subir tus archivos a la nube.  
+- Ver el historial de lo que cambiaste y cuándo.  
+- Trabajar con otras personas sin pisarse el trabajo.  
+- Organizar tareas y revisar el trabajo de tu equipo.
+
+
+
+---
+
+## Crear un repositorio
+
 
 ---
 
-## 1. Issues
+## Issues (Asuntos)
 
-**¿Qué es?**  
-Un Issue es un ticket para reportar bugs, proponer mejoras o asignar tareas.
-
-**Cómo crear un Issue**  
-1. En tu repositorio, ve a **Issues** → **New issue**.  
-2. Rellena **Título** y **Descripción**.  
-3. (Opcional) Asigna labels, assignees y milestones.  
-4. Haz clic en **Submit new issue**.
 
 ---
-## 2. Pull Requests
 
-**¿Qué es?**  
-Un Pull Request (PR) propone integrar cambios de una rama al repositorio principal.
+## Pull Requests (Solicitudes de extracción)
 
-**Flujo básico**  
-```bash
-# 1. Crear y moverte a una rama nueva
-git checkout -b feature/nombre-de-la-rama
 
-# 2. Hacer cambios y commitear
-git add .
-git commit -m "feat: descripción clara del cambio"
 
-# 3. Subir la rama
-git push origin feature/nombre-de-la-rama
+---
+
+## GitHub Projects (Proyectos)
+
+
+
+---
+
+## Automatización con GitHub Actions
+
+
+
+---
+
+## GitHub Gists
+
+
+
+---
+
+## GitHub Pages
+
+
+
+---
+
+## GitHub Codespaces
+
+
+---
+
+## GitHub Dev Editor
+
+
